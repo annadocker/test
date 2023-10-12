@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Leave your Feedback
-    url: https://github.com/annadocker/test/discussions
-    about: Share your feedback with the team.
+  - name: Share your idea
+    url: https://github.com/annadocker/test/discussions/categories/ideas
+    about: Share your idea with the team.
