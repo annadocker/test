@@ -2,4 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Share your idea
     url: https://github.com/annadocker/test/discussions/categories/ideas
-    about: Share your idea with the team.
+    about: Share your idea with the team.    
+  - name: Share your idea1
+    url: https://github.com/annadocker/test/discussions/categories/ideas1
+    about: Share your idea with the team1.
